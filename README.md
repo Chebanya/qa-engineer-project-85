@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Chebanya/qa-engineer-project-85/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Chebanya/qa-engineer-project-85/actions)
 
-### Оисание проекта 
+### Описание проекта 
 В данном проекте проведено ручное тестирование Open source проекта - https://codebattle.hexlet.io/ 
 
 Codebattle — игра, в которой два программиста одновременно выполняют одну задачу на разных языках программирования. Кто выполнил быстрее, тот побеждает
